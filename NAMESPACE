@@ -1,0 +1,9 @@
+# NAMESPACE for package 'toybox'
+
+importFrom("stats", "runif")
+importFrom("graphics", "locator", "par", "plot", "rasterImage", "text")
+
+importFrom("jpeg", "readJPEG")
+
+
+export("SpringPeeperCalls")

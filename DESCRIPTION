@@ -1,0 +1,14 @@
+Package: toybox
+Type: Package
+Title: Games and Simulations for Teaching Wildlife Stats
+Version: 0.0.1.9000
+Date: 2017-12-02
+Depends: 
+Imports: jpeg
+Suggests: 
+Author: Mike Meredith
+Maintainer: Mike Meredith <mmeredith@wcs.org>
+Description: A set of on-screen games and simulations to take the place of the physical activities we use in our workshops if the equipment is not available.
+License: GPL-3
+Copyright: see COPYRIGHTS for media included in the package.
+NeedsCompilation: no
